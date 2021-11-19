@@ -1,0 +1,1 @@
+Bu yerdagi matn text.txt fayliga kochirish
